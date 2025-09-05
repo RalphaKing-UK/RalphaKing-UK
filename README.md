@@ -9,15 +9,15 @@ I’m making projects that help solve porblems I have in my daily life, making w
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalphaKing-UK&show_icons=true&theme=default)
+![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalphaKing-UK&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RalphaKing-UK&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RalphaKing-UK&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 ![Ralph's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphaKing-UK&theme=github)
 
