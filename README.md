@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ralph King 👋
 
-<!--
-**RalphaKing-UK/RalphaKing-UK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m making projects that help solve porblems I have in my daily life, making what I need to do easier.
 
-Here are some ideas to get you started:
+- 🌐 Founder of [RKing Industries](https://rkingindustries.com)  
+- 🎓 Recipient of the **Arkwright Engineering Scholarship**  
+- 📊 Always learning and improving through open-source contributions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalphaKing-UK&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RalphaKing-UK&layout=compact&theme=default)
+
+---
+
+## 📊 Contribution Graph
+
+![Ralph's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphaKing-UK&theme=github)
+
+---
+
+## 🔗 Connect with Me
+
+- Website: [rkingindustries.com](https://rkingindustries.com)  
+
+---
+
+Thanks for visiting my profile! 
