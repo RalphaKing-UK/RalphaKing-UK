@@ -25,9 +25,10 @@ I’m making projects that help solve porblems I have in my daily life, making w
 
 ## 🔗 Connect with Me
 
-Ralph King
-Founder, RKing Industries
+### Ralph King
+#### Founder, CEO, RKing Industries
 “Where innovation meets madness.”
+
 [rkingindustries.com](https://rkingindustries.com) | [ralphaking.uk@gmail.com](mailto:ralphaking.uk@gmail.com)
 
 ---
